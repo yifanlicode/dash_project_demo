@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Dash specific
+/.dash/
+.cache/
+
+# Logs
+*.log
+logs/
+
+# Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
